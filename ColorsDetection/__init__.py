@@ -1,0 +1,1 @@
+from ColorsDetection.detectColors import detectColors
